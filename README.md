@@ -23,7 +23,7 @@ Predict likes based on tweet content and media for:
    - Final approach: Ensemble of LightGBM and Neural Network
 
 ## Results
-- 2.1K RMSE on cross-validation set
+- 2.1K RMSE on cross-validation set made using GroupKFold on inferred company
 
 ## Files
 - `README.md`: Project overview
@@ -34,5 +34,7 @@ Predict likes based on tweet content and media for:
 - `adobe-inference.ipynb`: Inference notebook
 - `adobe-trying-all-models.ipynb`: Model experimentation
 - `effnet-finetuned.pth`: Fine-tuned EfficientNet model
+- `test-company.csv`: CSV file conatining the test data output for subtask 1
+- `test-time.csv`: CSV file conatining the test data output for subtask 2
 
 For more details, refer to the individual notebook files.
