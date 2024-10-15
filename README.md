@@ -33,6 +33,7 @@ Predict likes based on tweet content and media for:
 - `adobe-effnet-finetuning.ipynb`: EfficientNet fine-tuning
 - `adobe-inference.ipynb`: Inference notebook
 - `adobe-trying-all-models.ipynb`: Model experimentation
+- 'adobe-generating-text-prompt.ipynb': Model experimentation ( but couldn't do much cause it is very resoruce extensive }
 - `effnet-finetuned.pth`: Fine-tuned EfficientNet model
 - `test-company.csv`: CSV file conatining the test data output for subtask 1
 - `test-time.csv`: CSV file conatining the test data output for subtask 2
